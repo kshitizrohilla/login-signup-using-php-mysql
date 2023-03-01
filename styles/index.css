@@ -1,0 +1,44 @@
+h1
+{
+  font-size: 75px;
+  text-align: center;
+  text-decoration: none;
+  color: #222;
+}
+
+p
+{
+  font-size: 25px;
+  text-align: center;
+  text-decoration: none;
+  color: #222;
+}
+
+form 
+{
+  text-align: center;
+}
+
+input
+{
+  font-size: 25px;
+  padding: 7px;
+  width: 300px;
+  padding-left: 10px;
+  border-radius: 10px;
+  border: none;
+  background: #e6e6e6;
+  outline: none;
+}
+
+button, a
+{
+  text-decoration: none;
+  font-size: 30px;
+  border: none;
+  border-radius: 10px;
+  padding: 7px 15px;
+  background-color: dodgerblue;
+  color: #fff;
+  cursor: pointer;
+}
